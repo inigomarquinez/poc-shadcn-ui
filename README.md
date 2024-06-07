@@ -24,6 +24,11 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## ⌘ Useful commands
+
+- `npx shadcn-ui@latest add [component]`: Add a new component to your project.
+- `npx shadcn-ui diff`: Check for updates to the components in your project.
+
 ## 🔗 Useful links
 
 - [shadcn/ui](https://ui.shadcn.com/)
